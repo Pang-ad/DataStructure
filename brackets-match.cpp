@@ -1,4 +1,4 @@
-//À¨ºÅÆ¥Åä	c++
+//æ‹¬å·åŒ¹é…	c++
 #include<iostream>
 #include<string>
 #include<stack>
@@ -27,7 +27,7 @@ public:
 };
 
 
-//À¨ºÅÆ¥Åä	c
+//æ‹¬å·åŒ¹é…	c
 #include<stdio.h>
 #include<stdbool.h>
 #include<string.h>
